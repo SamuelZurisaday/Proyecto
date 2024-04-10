@@ -1,4 +1,4 @@
-# Proyecto
+# Proyecto Meeting Rooms
 
 #Comandos
 
@@ -17,4 +17,9 @@ python3 -m django startproject nombre_proyecto
 2. Testear servidor
 ```bash
 python manage.py runserver
+```
+
+3. Crear una `aplication` dentro de mi proyecto:
+```bash
+python manage.py startapp <nombre de la app>
 ```
