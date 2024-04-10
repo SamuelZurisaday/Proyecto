@@ -12,3 +12,9 @@ python -m django startproject nombre_proyecto
 # Y si se usa python3 como comando:
 
 python3 -m django startproject nombre_proyecto
+```
+
+2. Testear servidor
+```bash
+python manage.py runserver
+```
